@@ -197,7 +197,7 @@ Adam optimiser, exponential learning-rate decay (initial rate $`10^{-4}`$, facto
 ## 7. Installation and Usage
 
 ```bash
-git clone https://github.com/<your-username>/constrained-bsde-numerics.git
+git clone https://github.com/CarlettoAA/Optimal_investment_with_constrained_trading_strategies.git
 cd constrained-bsde-numerics
 
 python -m venv .venv
