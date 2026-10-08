@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+.idea/
+.vscode/
+*.npy
+*.h5
+*.keras
+saved_models/
+figures/
+.DS_Store
